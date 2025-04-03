@@ -21,7 +21,7 @@ A **Mock Interview Platform** built using the **MERN stack**, **WebRTC**, and **
 ## 🎯 Installation & Setup  
 
 ### 1️⃣ Clone the Repository  
-git clone https://github.com/yourusername/mock-interview-platform.git
+git clone https://github.com/Gaurav-cgpa/MockInterview-Website
 cd mock-interview-platform
 
 
